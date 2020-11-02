@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <link href="{{ url_for('static', filename='css/reset.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <title>{{title}}</title>
+</head>
+
+<body>
+    <header></header>
+    <div id="main">
+        <div id="sidebar">
+            <nav>
+                <ul id='sidebarul'>
+                    <li>
+                        <a href="/">Home</a>
+                    </li>
+                    <li>
+                        <a href="/about">About</a>
+                    </li>
+                    <li>
+                        <a href="/portfolio">Portfolio</a>
+                    </li>
+                    <li>
+                        <a href="https://hiio.tistory.com">Blog</a>
+                    </li>
+                    <li>
+                        <a href="/contact">Contact</a>
+                    </li>
+
+                </ul>
+
+            </nav>
+        </div>
+        {% block content %}
+        {% endblock %}
+
+    </div>
+    <footer></footer>
+</body>
+
+</html>
