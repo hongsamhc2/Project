@@ -41,4 +41,12 @@
 - 보상 정책에 대한 수정이 필요로 한다.
 - 학습에 대한 수익률이 일정치 않은것으로 판단되며, 매수/ 매도량을 1로 설정한 부분과 지속적인 + 수익률을 만들 수 있는 모델을 만드는 것이 앞으로의 과제라고 판단된다.
 
+###### <시각화>
+- 학습 단계에 따른 수익률
+![Episode Profit](https://user-images.githubusercontent.com/69662531/97879326-34383a00-1d63-11eb-8e82-c766a8d59baa.png)
+
+- 마지막 에피소드 행동 비율
+![action_ratio](https://user-images.githubusercontent.com/69662531/97880733-e0c6eb80-1d64-11eb-9989-e1ebf311fd64.png)
+
+
 
