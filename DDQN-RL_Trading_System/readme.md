@@ -46,7 +46,7 @@
 ![Episode Profit](https://user-images.githubusercontent.com/69662531/97879326-34383a00-1d63-11eb-8e82-c766a8d59baa.png)
 
 - 마지막 에피소드 행동 비율
-![action_ratio](https://user-images.githubusercontent.com/69662531/97880733-e0c6eb80-1d64-11eb-9989-e1ebf311fd64.png)
+![action_ratio](https://user-images.githubusercontent.com/69662531/97880985-2d122b80-1d65-11eb-85e7-de43d4c08c57.png)
 
 
 
