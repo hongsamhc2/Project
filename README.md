@@ -17,6 +17,33 @@
   - 공공 데이터 포털 - 데이터 다운로드 사이트
   - 개인 포트폴리오 사이트
 
+## 딥러닝
+
+###### 소개
+
+- Tensorflow 와 Keras 신경망으로 이용한 학습모델 프로젝트
+- 링크 https://github.com/hongsamhc2/Project/tree/main/DDQN-RL_Trading_System
+
+### DDQN-강화학습 기반 주식 트레이딩 시스템
+
+###### 소개
+
+- DDQN 알고리즘을 이용한 주식 자동화 강화학습 프로젝트
+- 인공 신경망을 정책을 통한 행동과 보상으로 가치 신경망 학습
+
+###### 개발환경
+
+- 사용언어 - 파이썬
+
+- 라이브러리
+  - Tensorflow
+  - keras
+  - numpy
+  - pandas
+- 대신증권 API
+
+![Cap 2020-11-02 22-36-21-604](https://user-images.githubusercontent.com/69662531/97874020-c0466380-1d5b-11eb-97b9-3442f8690d3c.png)
+
 
 
 ## 웹 프론트엔드
