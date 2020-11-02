@@ -45,7 +45,10 @@
 
 ### 아파트_실거래가 데이터 수집 모듈
 
-​	국내 부동산 데이터 분석을 위한 아파트 실거래가를 수집하는 모듈
+- 국내 부동산 데이터 분석을 위한 아파트 실거래가를 수집하는 모듈
+- 링크 https://github.com/hongsamhc2/Project/tree/main/Python-Module
+
+
 
 ###### 라이브러리
 
@@ -57,9 +60,4 @@
 - 법정동 코드 - 11110
 - 날짜 년/월 - 202010
 
-
-![Cap 2020-11-02 22-07-48-651](https://user-images.githubusercontent.com/69662531/97870286-1d3f1b00-1d56-11eb-8f7a-e4f55b0cf0be.png)
-
 ###  
-
-
