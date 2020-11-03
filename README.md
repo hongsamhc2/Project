@@ -44,6 +44,14 @@
 
 ![Cap 2020-11-02 22-36-21-604](https://user-images.githubusercontent.com/69662531/97874020-c0466380-1d5b-11eb-97b9-3442f8690d3c.png)
 
+### 케라스 주식 가격 예측
+
+###### 소개
+
+- 텐서플로우 케라스 신경망 모델을 사용한 딥러닝 학습
+- LSTM 신경망을 통해 주식 종가 예측 (삼성전자)
+
+![Cap 2020-11-03 21-37-51-302](https://user-images.githubusercontent.com/69662531/97985063-0ca4a880-1e1b-11eb-99a4-6ddac4eb800e.png)
 
 
 ## 웹 프론트엔드
