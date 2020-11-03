@@ -53,13 +53,17 @@
 
 ![Cap 2020-11-03 21-37-51-302](https://user-images.githubusercontent.com/69662531/97985063-0ca4a880-1e1b-11eb-99a4-6ddac4eb800e.png)
 
-
-### 케라스 주식 가격 예측
+## 머신러닝
 
 소개
 
-- 텐서플로우 케라스 신경망 모델을 사용한 딥러닝 학습
-- LSTM 신경망을 통해 주식 종가 예측 (삼성전자)
+- 머신러닝 선형회귀 모델들을 이용한 주가 가격 예측
+- LinearRegression / XGBoost Regressor 
+
+
+![Cap 2020-11-03 21-46-12-322](https://user-images.githubusercontent.com/69662531/97985866-33afaa00-1e1c-11eb-834e-00b367471a4e.png)
+
+![Cap 2020-11-03 21-45-09-336](https://user-images.githubusercontent.com/69662531/97985775-111d9100-1e1c-11eb-904c-19d2c4201ab4.png)
 
 
 
