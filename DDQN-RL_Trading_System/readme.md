@@ -31,7 +31,7 @@
 
 
 
-### Version 1.0
+### Step.1
 
 ###### 개요
 
@@ -49,4 +49,12 @@
 ![action_ratio](https://user-images.githubusercontent.com/69662531/97880985-2d122b80-1d65-11eb-85e7-de43d4c08c57.png)
 
 
+### Step.2
+
+###### <시각화>
+- 학습 단계에 따른 수익률
+![Episode Profit2](https://user-images.githubusercontent.com/69662531/97988941-221cd100-1e21-11eb-982a-36d8da2b919e.png)
+
+- 마지막 에피소드 행동 비율
+![action_ratio2](https://user-images.githubusercontent.com/69662531/97988945-234dfe00-1e21-11eb-9e9b-974162b275bc.png)
 
