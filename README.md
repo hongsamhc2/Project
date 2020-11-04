@@ -89,7 +89,7 @@
 - 서버 - Flask 프레임워크
 
 
-
+![Cap 2020-11-04 10-49-36-358](https://user-images.githubusercontent.com/69662531/98062652-d0f8f580-1e91-11eb-9909-0db88fbec45d.jpg)
 
 ### 공공 데이터 포털 - 데이터 다운로드 사이트
 
@@ -98,7 +98,7 @@
 ​	공공 데이터 포털의 REST API 로 제공되는 JSON / XML 형식의 데이터들을 URL 과 서비스키 / 요청 변수 입력시 CSV파일 형태로 다운로드를 제공하는 사이트
 
 ​	URL 형식으로 데이터를 요청하고 JSON /XML로 응답받아 프로그래밍 언어를 통해 재가공해야하는 과정의 복잡함을 피하고자 시작한 프로젝트
-![Cap 2020-11-04 10-53-25-670](https://user-images.githubusercontent.com/69662531/98061072-701bee00-1e8e-11eb-9a8d-8670a2f2b350.png)
+
 ![Cap 2020-11-04 11-07-20-821](https://user-images.githubusercontent.com/69662531/98061077-70b48480-1e8e-11eb-93c7-1964177cafe3.png)
 
 
