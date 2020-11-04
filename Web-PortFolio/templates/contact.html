@@ -1,4 +1,37 @@
 {% extends 'layout.html' %}
 {% block content %}
-{{title}}
+<div id="wrapper" class='move'>
+    <div class="contactinfo">
+        <div class="title">
+            Contact
+        </div>
+        <span></span>
+        <div class="inquiries">
+            <span class="subtitle">Inquiries:</span>
+            <span class="thin20">Please fill out the form on the right
+                You can email me directly
+            </span>
+            <span class="thin20">hiiodev@gmail.com.</span>
+        </div>
+    </div>
+    <div class="contactform">
+
+        <form action="">
+            <div class="subtitle">
+                <span>
+                    Form
+                </span>
+            </div>
+            <label for="">Name</label>
+            <input type="text">
+            <label for="">E-mail</label>
+            <input type="text">
+            <label for="">Subject</label>
+            <input type="text">
+            <label class="msg" for="msg">Message</label>
+            <input id="msg" type="text">
+            <input type="submit" value="Send">
+        </form>
+    </div>
+</div>
 {% endblock %}

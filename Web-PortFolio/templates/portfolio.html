@@ -1,4 +1,39 @@
 {% extends 'layout.html' %}
 {% block content %}
-{{title}}
+<div id="wrapper" class='move'>
+    <div class="title">
+        <span>Portfolio</span>
+    </div>
+    {% for portfolio in portfolio_list%}
+    <div class="content" title="{{portfolio}}">
+       <div class="image">
+           <img src="../static/portfolio/{{portfolio}}/main.png
+        " alt="{{portfolio}}">
+       </div>
+       <div class="textcontent">
+           <div class="subtitle">
+               <span>
+                   {{PortfolioTitle(portfolio)}}
+               </span>
+           </div>
+           <div class="subdescription">
+               <span>
+                   {{PortfolioDesc(portfolio)}}
+                   
+               </span>
+               
+           </div>
+           <div class="sublink">
+                <span>
+                    <a href="https://github.com/hongsamhc2/Projects.git">
+                        Link 
+                    </a>
+                </span>
+            </div>
+       </div>
+       
+        
+    </div>
+    {%endfor%}
+</div>
 {% endblock %}

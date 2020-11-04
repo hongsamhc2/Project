@@ -3,15 +3,20 @@
 
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link href="{{ url_for('static', filename='css/reset.css') }}" rel="stylesheet">
     <link href="{{ url_for('static', filename='css/style.css') }}" rel="stylesheet">
+    <link href="{{ url_for('static', filename='css/media.css') }}" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <script src='../static/js/jquery-3.5.1.min.js'></script>
+    <script src='../static/js/common.js'></script>
     <title>{{title}}</title>
 </head>
 
 <body>
     <header></header>
     <div id="main">
+       
         <div id="sidebar">
             <nav>
                 <ul id='sidebarul'>
@@ -34,12 +39,21 @@
                 </ul>
 
             </nav>
+            <div class="menu">
+                <span class="show">
+                    Menu
+                </span>
+            </div>
         </div>
         {% block content %}
         {% endblock %}
 
     </div>
-    <footer></footer>
+    <footer>
+        <span class="thin10">
+            ©2020 Hiio.  All rights Reserved.
+        </span>
+    </footer>
 </body>
 
 </html>
