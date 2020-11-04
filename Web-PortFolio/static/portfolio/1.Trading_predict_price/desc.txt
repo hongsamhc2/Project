@@ -1,0 +1,1 @@
+-The domestic stock price prediction model using Keras and Tensorflow trains RNN and LSTM neural network model with time series data to predict the next price according to period
