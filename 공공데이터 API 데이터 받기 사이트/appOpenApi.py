@@ -12,7 +12,7 @@ app = Flask(__name__, static_url_path='/static')
 def index():
     df = pd.read_csv('C:\\Users\\TJ\\Desktop\\python\\kiwoomtrading\\DB\\CSV\\cyboscode.csv')
     list = df['stock_code'].tolist()
-    return render_template('test.html',list = list)
+    return render_template('index.html',list = list)
 
 
 @app.route("/publicapi",methods=['POST'])
